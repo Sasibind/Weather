@@ -1,7 +1,5 @@
 # Weather App in React Native
 
---
-
 ## Todo:
 
 - Create .env variables for sensitive API keys
